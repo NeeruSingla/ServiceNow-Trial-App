@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Trail Publication 2" max_length="40" name="x_288681_trial_pub_trail_publication_2" type="collection">
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
